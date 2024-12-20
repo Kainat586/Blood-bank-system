@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\viewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:viewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\deletedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:deletedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\adddonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:adddonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\adddonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:adddonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\managerecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:managerecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\managerecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:managerecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\managedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:managedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\managedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:managedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\admndash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:admndash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\admndash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:admndash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\admndash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:admndash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|c:\\users\\kainat\\source\\repos\\mera\\mera\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B5864-4764-4849-BDF5-777904659C12}|project.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adddonors.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Adddonors.cs",
+              "RelativeDocumentMoniker": "Adddonors.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Adddonors.cs",
+              "RelativeToolTip": "Adddonors.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:33:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deletedonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\deletedonor.cs",
+              "RelativeDocumentMoniker": "deletedonor.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\deletedonor.cs [Design]",
+              "RelativeToolTip": "deletedonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:09:00.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "viewdonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\viewdonor.cs",
+              "RelativeDocumentMoniker": "viewdonor.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\viewdonor.cs [Design]",
+              "RelativeToolTip": "viewdonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:49:42.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adddonors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Adddonors.cs",
+              "RelativeDocumentMoniker": "Adddonors.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Adddonors.cs [Design]",
+              "RelativeToolTip": "Adddonors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:51:02.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:01:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userlogin.cs",
+              "RelativeDocumentMoniker": "userlogin.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userlogin.cs [Design]",
+              "RelativeToolTip": "userlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:11:08.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userlogin.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userlogin.cs",
+              "RelativeDocumentMoniker": "userlogin.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\userlogin.cs",
+              "RelativeToolTip": "userlogin.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:39:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageRecipient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\ManageRecipient.cs",
+              "RelativeDocumentMoniker": "ManageRecipient.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\ManageRecipient.cs [Design]",
+              "RelativeToolTip": "ManageRecipient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:59:18.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SignupForm.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\SignupForm.cs [Design]",
+              "RelativeToolTip": "SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:56:27.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageRecipient.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\ManageRecipient.cs",
+              "RelativeDocumentMoniker": "ManageRecipient.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\ManageRecipient.cs",
+              "RelativeToolTip": "ManageRecipient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:01:24.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Managedonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Managedonor.cs",
+              "RelativeDocumentMoniker": "Managedonor.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Managedonor.cs [Design]",
+              "RelativeToolTip": "Managedonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:57:42.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Managedonor.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Managedonor.cs",
+              "RelativeDocumentMoniker": "Managedonor.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Managedonor.cs",
+              "RelativeToolTip": "Managedonor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:22:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admndash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.cs",
+              "RelativeDocumentMoniker": "Admndash.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.cs [Design]",
+              "RelativeToolTip": "Admndash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:20:23.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admndash.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.Designer.cs",
+              "RelativeDocumentMoniker": "Admndash.Designer.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.Designer.cs",
+              "RelativeToolTip": "Admndash.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:47:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admndash.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.cs",
+              "RelativeDocumentMoniker": "Admndash.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Admndash.cs",
+              "RelativeToolTip": "Admndash.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAlwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:53:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "forgotpass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\forgotpass.cs",
+              "RelativeDocumentMoniker": "forgotpass.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\forgotpass.cs [Design]",
+              "RelativeToolTip": "forgotpass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:04:43.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "forgotpass.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\forgotpass.cs",
+              "RelativeDocumentMoniker": "forgotpass.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\forgotpass.cs",
+              "RelativeToolTip": "forgotpass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:21:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SignupForm.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\SignupForm.cs",
+              "RelativeToolTip": "SignupForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:45:21.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:16:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "reset.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\reset.cs",
+              "RelativeDocumentMoniker": "reset.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\reset.cs [Design]",
+              "RelativeToolTip": "reset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:38:18.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\UserForm.cs [Design]",
+              "RelativeToolTip": "UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:07:13.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "reset.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\reset.cs",
+              "RelativeDocumentMoniker": "reset.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\reset.cs",
+              "RelativeToolTip": "reset.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:32:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Kainat\\Source\\Repos\\mera\\mera\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:37:34.541Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
